@@ -1,0 +1,8 @@
+title: ふたり旅
+description: 利用規約・プライバシーポリシー
+lang: ja
+theme: jekyll-theme-minimal
+url: https://lukaunik.github.io
+baseurl: /futaritabi-policies
+exclude:
+  - README.md
